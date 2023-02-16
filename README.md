@@ -84,8 +84,7 @@
 							<ul class="icons">
 								<li><a href="https://github.com/DW3rnik?tab=repositories" class="icon brands style2 fa-github"target="_blank"><span class="label">GitHub</span></a></li>
 								<li><a href="https://www.linkedin.com/in/dwernik/" class="icon brands style2 fa-linkedin-in" target="_blank"><span class="label">LinkedIn</span></a></li>
-								<li><a href="mailto:DamianWernik@yahoo.com" class="icon style2 fa-envelope"><span class="label" target="_blank">Email</span></a></li>
-							</ul>
+								
 							<p>&copy; DWPortfolio. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 						</div>
 					</footer>
