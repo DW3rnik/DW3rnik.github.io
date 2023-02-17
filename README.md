@@ -51,7 +51,7 @@
 							<h2><b>Covid Statistics with PowerBI Report</b></h2>
 							<p>In this project I have used the Covid 19 statistics from April 2021 to explore the data and create a PowerBi report. This project was also inspired by Alex The Analyst, but the author used Tableau to present his findings. I have concentrated on PowerBI to broaden my skillset (I have only worked with Tableau during the Google Data Anlysis course) and improved on aesthetics. </p>
 							<ul class="actions stacked">
-								<li><a href="https://github.com/DW3rnik/Portfolio---CovidStatistics" class="button" target="+_blank">View Project</a></li>
+								<li><a href="https://app.powerbi.com/view?r=eyJrIjoiNjg4MDEyZjEtN2VjZS00Mjk5LWE0ZmUtZDgxZTlmOTEyMTcwIiwidCI6IjM1OTM0ZDIwLWMzMDAtNGMwNS04NzBiLTZiNjAxNmIyYTI4MSJ9&pageName=ReportSection" class="button" target="+_blank">View Project</a></li>
 							</ul>
 						</div>
 						<div class="image">
