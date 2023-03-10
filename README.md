@@ -35,7 +35,7 @@
 	<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 		<div class="content">
 			<h2><b>Data Cleaning in SQL</b></h2>
-			<p>This project presents my skills in Data Cleaning using SQL. I have professional experience with Data Cleaning, but usually the size of data sets allowed me to use Microsoft Excel. In this project I followed the Alex The Analyst's YouTube tutorrial on Data Cleaning in SQL to make sure I will be fully capable of cleaning large data sets, too. </p>
+			<p>This project presents my skills in Data Cleaning using SQL. </p>
 			<ul class="actions stacked">
 				<li><a href="https://github.com/DW3rnik/Portfolio---SQL-Data-Cleaning/blob/main/SQLCode.sql" class="button" target="_blank">View Code</a></li>
 			</ul>
